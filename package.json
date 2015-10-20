@@ -1,0 +1,33 @@
+{
+  "name": "shrouder",
+  "description": "A safeguard against spam bots by creating your email via javascript.",
+  "version": "0.1.0",
+  "keywords": ["js", "shrouder", "shrouder js", "email", "email js", "email js", "email-shrouder", "haleks", "Alex Villeneuve", "AlexVilleneuve", "Alexandre Villeneuve", "AlexandreVilleneuve", "haleksandre"],
+  "license": "MIT",
+  "homepage": "https://haleks.ca",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haleks/shrouder.git"
+  },
+  "author": [
+    {
+      "name": "Alexandre Villeneuve",
+      "email": "haleksviller@gmail.com"
+    }
+  ],
+  "main": "js/shrouder.js",
+  "script": "dist/js/shrouder.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.3",
+    "chai": "^3.3.0",
+    "sinon": "^1.17.1",
+    "jquery": "^2.1.4",
+    "mocha-jsdom": "^1.0.0",
+    "laravel-elixir": "^3.0.0",
+    "laravel-elixir-mocha": "^0.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/haleks/shrouder/issues"
+  }
+}
